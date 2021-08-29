@@ -1,0 +1,9 @@
+{
+	"name": "adfmydevopspoc1",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "78da7be1-b081-4904-a06d-f75d2f886c56",
+		"tenantId": "36da45f1-dd2c-4d1f-af13-5abe46b99921"
+	}
+}
